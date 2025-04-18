@@ -11,3 +11,4 @@ difference = int1 - int2
 
 print("The difference of int1 and int2, which are two integers, is" + difference)
 print("The type of the difference is " + type(difference))
+
