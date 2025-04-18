@@ -1,5 +1,5 @@
-#This program will write
-# 
+#This program will write my full name, preferred pronouns, 
+# my favorite movie, and my favorite food.
 
 def print_info():
     print("Full Name: Pranjal Agrawal")
