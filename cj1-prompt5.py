@@ -12,7 +12,6 @@ python_table = tabulate(table_data, tablefmt="grid", headers=table_headers,
     floatfmt=".3f")
 
 def main():
-    print(table_data)
     print(python_table)
 
 if __name__ == '__main__':
